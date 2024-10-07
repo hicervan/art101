@@ -1,9 +1,26 @@
 /* Here we can set styles for this lab page that we don't want to effect others pages */
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
-.minor-section {
-    padding: 10px;
+body {
+    padding: 20px;
     margin-bottom: 10px;
-    border: solid 1px #6fdef2;
-    background-color: hwb(36 0% 0%);
+    background-color: hwb(198 69% 0%);
+    background-image: url(https://media.tenor.com/RmOYmzo4fM0AAAAM/funny-fish-goldfish.gif);
+  background-size: 1400px 800px;
+  background-repeat: no-repeat;
+}
+  h1 {
+    color: aliceblue;
+    font-size: 40px;
+    font-family: monospace;
+    padding-right: 30px;
   }
+  p {
+    color: aliceblue;
+    font-size: 30px;
+    font-family: monospace;
+  }
+  #content {
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ1bMYzUCqiPY-R8ruKohtaTmaxnpkUY5dw&s);
+ background-repeat: no-repeat
+ ; }
