@@ -17,10 +17,9 @@ body {
   }
   p {
     color: aliceblue;
-    font-size: 30px;
+    font-size: 20px;
     font-family: monospace;
   }
   #content {
  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ1bMYzUCqiPY-R8ruKohtaTmaxnpkUY5dw&s);
- background-repeat: no-repeat
- ; }
+ background-repeat: no-repeat; }
