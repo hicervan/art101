@@ -21,5 +21,6 @@ body {
     font-family: monospace;
   }
   #content {
+    color: darkorange;
  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ1bMYzUCqiPY-R8ruKohtaTmaxnpkUY5dw&s);
  background-repeat: no-repeat; }
