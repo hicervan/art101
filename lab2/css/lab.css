@@ -2,6 +2,7 @@
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 body {
+  border: dotted greenyellow 20px;
     padding: 20px;
     margin-bottom: 10px;
     background-color: hwb(198 69% 0%);
@@ -11,7 +12,7 @@ body {
 }
   h1 {
     color: aliceblue;
-    font-size: 40px;
+    font-size: 40px; 
     font-family: monospace;
     padding-right: 30px;
   }
@@ -21,6 +22,5 @@ body {
     font-family: monospace;
   }
   #content {
-    color: darkorange;
  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJQ1bMYzUCqiPY-R8ruKohtaTmaxnpkUY5dw&s);
  background-repeat: no-repeat; }
