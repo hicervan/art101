@@ -4,6 +4,15 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #ffffff;
+    background-color: #ffffff;
+    border: dotted 4px;
+    border-color: #ff8800;
   }
+
+  h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: violet;
+  }
+
+  
