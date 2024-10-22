@@ -7,3 +7,18 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+.minor-section{
+  background-color: #ffffff;
+}
+
+h1 {
+  color: violet;
+}
+
+img { 
+  display:block; 
+  margin-left:auto;
+  width: 475x;
+  border-radius: 50%;
+  }
