@@ -25,4 +25,4 @@ littleG.map(function(x) {
   return x-2; 
 })
 
-console.log(little.G(function(x));
+console.log(little.G);
